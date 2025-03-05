@@ -1,0 +1,71 @@
+/* Cascading Styles Sheets */
+
+.art{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    /* grid-template-columns:25% 25% 25% 25%; */
+}
+
+
+.art p{
+    margin: 0;
+}
+
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #f5f0f0;
+    /* height: 100px; */
+}
+
+nav {
+    float:right;
+    width: 25.5%;
+    height: 710px;
+    background-color:hsl(80, 18%, 65%);
+    padding: 20px;
+}
+.headings{
+
+    padding: 10%;
+    background-color: #f5f0f0;
+    font-family:sans-serif;
+}
+/* .contactinfo{
+    padding:10%;
+    background-color: #f5f0f0;
+} */
+/* .subheadings{
+    
+} */
+/* .hd{
+    color: #87CEEB;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+} */
+/* .credentials {
+    text-align: center;
+    margin: 5%;
+    border: 2px black solid;
+    padding: 2%;
+    background-color: royalblue;
+    font-family: sans-serif;
+
+}
+
+.rdoexplained {
+    margin: 5%;
+    border: 2px black solid;
+    padding: 2%;
+    background-color: royalblue;
+    font-family: sans-serif;
+}
+h2,p {
+    text-align: center;
+}
+.form-1 {
+    display: flex;
+    justify-self: center;   
+} */
